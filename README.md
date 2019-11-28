@@ -7,6 +7,7 @@ Options analyzer for Deribit exchange
 This a utility to analyze option/futures strategies on Deribit platform. Execution is still in development.
 Now only Deribit`s test-net is used during beta testing.
 
+![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
 ## Functionality
 1. Analyzer
 2. Positions tracker
