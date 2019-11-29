@@ -10,6 +10,9 @@ Now only Deribit`s test-net is used during beta testing.
 Download links:
 - Windows [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio.Setup.0.0.2.exe)
 - MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio-0.0.2.dmg) 
+
+Telegram channel: [https://t.me/optio_deribit](https://t.me/optio_deribit) 
+
 ![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
 
 ## Functionality
@@ -37,4 +40,5 @@ Mac environment:
 ## Release history
 - 11/29/2019 - Bug fixes 
 - 11/27/2019 - First pre-beta release 
+
 
