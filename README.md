@@ -7,7 +7,11 @@ Options analyzer for Deribit exchange
 This a utility to analyze option/futures strategies on Deribit platform. Execution is still in development.
 Now only Deribit`s test-net is used during beta testing.
 
+Download links:
+- Windows [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio.Setup.0.0.2.exe)
+- MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio-0.0.2.dmg) 
 ![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
+
 ## Functionality
 1. Analyzer
 2. Positions tracker
@@ -16,7 +20,7 @@ Now only Deribit`s test-net is used during beta testing.
 
 ## Install and Run
 Windows environment:
-- [Download release](https://github.com/pavelkrolevets/optio/releases/latest) files for your operating system.
+- [Download release](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio.Setup.0.0.2.exe) files for your operating system.
 - Register at [Deribit test-net](https://test.deribit.com/)
 - Create API keys
 - Install and run Optio as Administrator
@@ -24,7 +28,7 @@ Windows environment:
 
 Mac environment:
 - There is no special prerequisites 
-- [Download release](https://github.com/pavelkrolevets/optio/releases/latest) files for your operating system.
+- [Download release](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio-0.0.2.dmg) files for your operating system.
 - Register at [Deribit test-net](https://test.deribit.com/)
 - Create API keys
 - Install and run Optio
