@@ -15,13 +15,22 @@ Now only Deribit`s test-net is used during beta testing.
 4. Realized volatility calculator
 
 ## Install and Run
-1. Windows environment
-- [Download release](https://github.com/pavelkrolevets/optio/releases/tag/v0.0.1) files for your operating system.
+Windows environment:
+- [Download release](https://github.com/pavelkrolevets/optio/releases/latest) files for your operating system.
 - Register at [Deribit test-net](https://test.deribit.com/)
 - Create API keys
 - Install and run Optio as Administrator
 - In "Profile" directory of the app enter and update API keys
 
+Mac environment:
+- There is no special prerequisites 
+- [Download release](https://github.com/pavelkrolevets/optio/releases/latest) files for your operating system.
+- Register at [Deribit test-net](https://test.deribit.com/)
+- Create API keys
+- Install and run Optio
+- In "Profile" directory of the app enter and update API keys
+
 ## Release history
+- 11/29/2019 - Bug fixes 
 - 11/27/2019 - First pre-beta release 
 
