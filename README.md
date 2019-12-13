@@ -13,7 +13,7 @@ Download links:
 
 Telegram channel: [https://t.me/optio_deribit](https://t.me/optio_deribit) 
 
-![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
+![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainscreen.png)![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
 
 ## Functionality
 1. Analyzer
