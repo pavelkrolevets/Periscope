@@ -8,8 +8,9 @@ This a utility to analyze option/futures strategies on Deribit platform. Executi
 Now only Deribit`s test-net is used during beta testing.
 
 Download links:
-- Windows [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio.Setup.0.0.2.exe)
-- MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio-0.0.2.dmg) 
+- Windows [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.3/Optio.Setup.0.0.3.exe)
+- MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.3/Optio-0.0.3.dmg)
+- Linux [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.3/Optio_0.0.3_amd64.deb)
 
 Telegram channel: [https://t.me/optio_deribit](https://t.me/optio_deribit) 
 
