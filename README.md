@@ -1,11 +1,13 @@
 # Optio
 
-Options analyzer for Deribit exchange
+Options analyzer for Deribit exchange 
+
+!!! In active development !!!
 
 ## Description
 
-This a utility to analyze option/futures strategies on Deribit platform. Execution is still in development.
-Now only Deribit`s test-net is used during beta testing.
+This a utility to analyze option/futures strategies on Deribit platform. Orders execution is still in development.
+
 
 Download links:
 - Windows [here](https://github.com/pavelkrolevets/optio/releases/download/v0.0.3/Optio.Setup.0.0.3.exe)
@@ -41,5 +43,9 @@ Mac environment:
 ## Release history
 - 11/29/2019 - Bug fixes 
 - 11/27/2019 - First pre-beta release 
+
+## Disclaimer
+
+The Software and code samples available on this website are provided "as is" without warranty of any kind, either express or implied. Use at your own risk.
 
 
