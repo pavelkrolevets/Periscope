@@ -25,22 +25,14 @@ Telegram channel: [https://t.me/optio_deribit](https://t.me/optio_deribit)
 4. Realized volatility calculator
 
 ## Install and Run
-Windows environment:
-- [Download release](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio.Setup.0.0.2.exe) files for your operating system.
-- Register at [Deribit test-net](https://test.deribit.com/)
-- Create API keys
-- Install and run Optio as Administrator
-- In "Profile" directory of the app enter and update API keys
-
-Mac environment:
-- There is no special prerequisites 
-- [Download release](https://github.com/pavelkrolevets/optio/releases/download/v0.0.2/Optio-0.0.2.dmg) files for your operating system.
-- Register at [Deribit test-net](https://test.deribit.com/)
+- Download release for your operating system.
+- Register at [Deribit](https://www.deribit.com/)
 - Create API keys
 - Install and run Optio
 - In "Profile" directory of the app enter and update API keys
 
 ## Release history
+- 12/25/2019 - Switch from testnet to real accounts. SSL channel.
 - 11/29/2019 - Bug fixes 
 - 11/27/2019 - First pre-beta release 
 
