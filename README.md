@@ -1,12 +1,11 @@
-# Optio
+# Deribit delta-hedger
 
-Options analyzer for Deribit exchange 
-
-!!! In active development !!!
+!!! In active development. For now only deribit test-net. !!!
 
 ## Description
 
-This a utility to analyze option/futures strategies on Deribit platform. Orders execution is still in development.
+This a utility to run standalone options delta-hedger processes on the server for Deribit platform.
+The current position PnL is also provided.
 
 
 Download links:
@@ -14,21 +13,19 @@ Download links:
 - MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/0.0.4/Optio-0.0.4.dmg)
 - Linux [here](https://github.com/pavelkrolevets/optio/releases/download/0.0.4/Optio_0.0.4_amd64.deb)
 
-Telegram channel: [https://t.me/optio_deribit](https://t.me/optio_deribit) 
 
 ![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainscreen.png)![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
 
 ## Functionality
-1. Analyzer
-2. Positions tracker
+1. Position tracker
 3. Delta hedger
-4. Realized volatility calculator
+4. Historical volatility calculator
 
 ## Install and Run
 - Download release for your operating system.
-- Register at [Deribit](https://www.deribit.com/)
+- Register on the testnet [Deribit](https://test.deribit.com/)
 - Create API keys
-- Install and run Optio
+- Install and run terminal
 - In "Profile" directory of the app enter and update API keys
 
 ## Release history
