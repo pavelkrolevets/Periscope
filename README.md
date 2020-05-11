@@ -9,12 +9,13 @@ The current position PnL is also provided.
 
 
 Download links:
-- Windows [here](https://github.com/pavelkrolevets/optio/releases/download/0.0.4/Optio.Setup.0.0.4.exe)
-- MacOS [here](https://github.com/pavelkrolevets/optio/releases/download/0.0.4/Optio-0.0.4.dmg)
-- Linux [here](https://github.com/pavelkrolevets/optio/releases/download/0.0.4/Optio_0.0.4_amd64.deb)
+- Windows [here](https://github.com/pavelkrolevets/deribit-deltahedger/releases/download/v.0.0.5/DDelta.Setup.0.0.5.exe)
+- MacOS [here](https://github.com/pavelkrolevets/deribit-deltahedger/releases/download/v.0.0.5/DDelta-0.0.5.dmg)
 
 
-![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainscreen.png)![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
+
+![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainscreen.png)
+![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainfeatures.png)
 
 ## Functionality
 1. Position tracker
