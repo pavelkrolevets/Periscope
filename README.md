@@ -5,8 +5,8 @@
 
 ### Description
 
-This a utility to run standalone options delta-hedger processes on the server for Deribit platform.
-The current position PnL is also provided.
+This a utility to run Deribit delta-hedger processes on the remote server. 
+No need to keep your own machine running.
 
 
 Download links:
