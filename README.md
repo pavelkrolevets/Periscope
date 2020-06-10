@@ -3,6 +3,8 @@
 
 !!! In active development. For now only deribit test-net. !!!
 
+If you have any qstn/prblm/ofr: https://t.me/pavelkrolevets
+
 ### Description
 
 This a utility to run Deribit delta-hedger processes on the remote server. 
