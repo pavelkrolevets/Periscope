@@ -8,7 +8,7 @@ If you have any qstn/prblm/ofr: https://t.me/pavelkrolevets
 ### Description
 
 This a utility to run Deribit delta-hedger processes on the remote server. 
-No need to keep your own machine running.
+No need to keep your own machine running. Later intended to add strategy robots.
 
 
 Download links:
