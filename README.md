@@ -12,9 +12,9 @@ No need to keep your own machine running. Later intended to add strategy robots.
 
 
 Download links:
-- Windows [here](https://github.com/pavelkrolevets/Periscope/releases/download/v.0.0.5/Periscope.Setup.0.0.5.exe)
-- MacOS [here](https://github.com/pavelkrolevets/Periscope/releases/download/v.0.0.5/Periscope-0.0.5.dmg)
-
+- Windows [here](https://github.com/pavelkrolevets/Periscope/releases/download/0.0.7/Periscope.Setup.0.0.7.exe)
+- MacOS [here](https://github.com/pavelkrolevets/Periscope/releases/download/0.0.7/Periscope.app.zip)
+- Linux [here](https://github.com/pavelkrolevets/Periscope/releases/download/0.0.7/periscope_0.0.7_amd64.deb)
 
 
 ![Main menu](https://github.com/pavelkrolevets/optio/blob/master/pics/mainscreen.png)
