@@ -1,9 +1,13 @@
+*** Not working anymore
+*** Source code can be found  here
+
+FE - https://github.com/pavelkrolevets/deribit-quant
+BE - https://github.com/pavelkrolevets/deribit-quant-backend
+
 # Periscope Terminal 
 ## Deribit delta-hedger (testnet)
 
 !!! In active development. For now only deribit test-net. !!!
-
-If you have any qstn/prblm/ofr: https://t.me/pavelkrolevets
 
 ### Description
 
